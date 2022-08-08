@@ -1,0 +1,1000 @@
+1	Massachusetts Institute of Technology (MIT) 
+2	University of Cambridge
+3	Stanford University
+4	University of Oxford
+5	Harvard University
+6	California Institute of Technology (Caltech)
+7	Imperial College London
+8	UCL
+9	ETH Zurich - Swiss Federal Institute of Technology
+10	University of Chicago
+11	National University of Singapore (NUS)
+12	Peking University
+13	University of Pennsylvania
+14	Tsinghua University
+15	The University of Edinburgh
+16	EPFL
+17	Princeton University
+18	Yale University
+19	Nanyang Technological University, Singapore (NTU)
+20	Cornell University
+21	The University of Hong Kong
+22	Columbia University
+23	The University of Tokyo
+24	Johns Hopkins University
+25	University of Michigan-Ann Arbor
+26	Université PSL
+27	University of California, Berkeley (UCB)
+28	The University of Manchester
+29	Seoul National University
+30	The Australian National University
+31	McGill University
+32	Northwestern University
+33	The University of Melbourne
+34	Fudan University
+35	University of Toronto
+36	Kyoto University
+37	King's College London
+38	The Chinese University of Hong Kong (CUHK)
+39	New York University (NYU)
+40	The Hong Kong University of Science and Technology
+41	The University of Sydney
+42	KAIST - Korea Advanced Institute of Science & Technology
+43	Zhejiang University
+44	University of California, Los Angeles (UCLA)
+45	The University of New South Wales (UNSW Sydney)
+46	Shanghai Jiao Tong University
+47	University of British Columbia
+48	Institut Polytechnique de Paris
+49	Technical University of Munich
+50	Duke University
+51	The University of Queensland
+52	Carnegie Mellon University
+53	University of California, San Diego (UCSD)
+54	City University of Hong Kong
+55	Tokyo Institute of Technology (Tokyo Tech)
+56	The London School of Economics and Political Science (LSE)
+57	Monash University
+58	University of Amsterdam
+59	Ludwig-Maximilians-Universität München
+60	Sorbonne University
+61	Delft University of Technology
+62	University of Bristol
+63	Brown University
+64	The University of Warwick
+65	Ruprecht-Karls-Universität Heidelberg
+66	The Hong Kong Polytechnic University
+67	Universidad de Buenos Aires (UBA)
+68	Osaka University
+69	Université Paris-Saclay
+70	Universiti Malaya (UM)
+71	Pohang University of Science And Technology (POSTECH)
+72	University of Texas at Austin
+73	Yonsei University
+74	Korea University
+75	Lomonosov Moscow State University
+76	KU Leuven
+77	National Taiwan University (NTU)
+78	University of Southampton
+79	Tohoku University
+80	University of Washington
+81	University of Glasgow
+82	University of Copenhagen
+83	University of Wisconsin-Madison
+84	University of Zurich
+85	University of Illinois at Urbana-Champaign
+86	University of Leeds
+87	The University of Auckland
+88	Georgia Institute of Technology
+89	KTH Royal Institute of Technology 
+90	The University of Western Australia
+91	University of Birmingham
+92	Durham University
+93	Pennsylvania State University
+94	University of Science and Technology of China
+95	Lund University
+96	The University of Sheffield
+97	University of St Andrews
+98	Trinity College Dublin, The University of Dublin
+99	Sungkyunkwan University(SKKU)
+100	Rice University
+101	University of Oslo
+102	University of California, Davis
+103	University of North Carolina, Chapel Hill
+104	Technical University of Denmark
+105	Universidad Nacional Autónoma de México (UNAM)
+106	King Abdulaziz University (KAU)
+107	University of Helsinki
+108	Boston University
+109	The University of Adelaide
+110	University of Alberta
+111	École Normale Supérieure de Lyon
+112	Nagoya University
+113	Utrecht University
+114	University of Nottingham
+115	Universidade de São Paulo
+116	Aalto University
+117	Université de Montréal 
+118	Freie Universitaet Berlin
+119	Washington University in St. Louis
+120	University of Bern
+121	Pontificia Universidad Católica de Chile (UC)
+122	Newcastle University
+123	Universiti Putra Malaysia (UPM)
+124	Wageningen University & Research
+125	Chalmers University of Technology
+126	Queen Mary University of London
+127	University of Geneva
+128	Uppsala University
+129	Purdue University
+130	Universiti Kebangsaan Malaysia (UKM)
+131	Humboldt-Universität zu Berlin
+132	Leiden University
+133	Nanjing University
+134	University of Southern California
+135	Kyushu University
+136	University of Basel
+137	University of Technology Sydney
+138	Eindhoven University of Technology
+139	Politecnico di Milano
+140	The Ohio State University
+141	Hokkaido University
+142	KIT, Karlsruhe Institute of Technology
+143	Ghent University
+144	Universiti Sains Malaysia (USM)
+145	University of Groningen
+146	Lancaster University
+147	RWTH Aachen University
+148	University of Rochester
+149	University of California, Santa Barbara (UCSB)
+150	Al-Farabi Kazakh National University
+151	University of Vienna
+152	McMaster University
+153	Stockholm University
+154	University of Waterloo
+155	Emory University
+156	Indian Institute of Science
+157	Hanyang University
+158	Technische Universität Berlin (TU Berlin)
+159	Michigan State University
+160	King Fahd University of Petroleum & Minerals
+161	Aarhus University
+162	University of York
+163	The University of Exeter
+164	Texas A&M University
+165	University of Maryland, College Park
+166	Cardiff University
+167	Alma Mater Studiorum - University of Bologna
+168	Universidad de Chile
+169	Eberhard Karls Universität Tübingen
+170	Tecnológico de Monterrey
+171	Sapienza University of Rome
+172	Indian Institute of Technology Bombay (IITB)
+173	Western University
+174	Ecole des Ponts ParisTech
+175	Indian Institute of Technology Delhi (IITD)
+176	Case Western Reserve University
+177	National Tsing Hua University
+178	Universitat Autònoma de Barcelona
+179	Technische Universität Wien
+180	University of Bath
+181	Khalifa University of Science and Technology
+182	University College Dublin
+183	University of Pittsburgh
+184	Universitat de Barcelona
+185	University of Gothenburg
+186	University of Minnesota Twin Cities
+187	University of Wollongong
+188	University of Florida
+189	Albert-Ludwigs-Universitaet Freiburg
+190	RMIT University
+191	University of Liverpool
+192	The University of Newcastle, Australia (UON)
+193	Curtin University
+194	Wuhan University
+195	Macquarie University
+196	Université catholique de Louvain (UCLouvain)
+197	Keio University
+198	Ulsan National Institute of Science and Technology (UNIST)
+199	Vanderbilt University
+200	Technische Universität Dresden
+201	Rheinische Friedrich-Wilhelms-Universität Bonn
+202	National Yang Ming Chiao Tung University
+203	Universiti Teknologi Malaysia 
+204	University of Lausanne
+205	Dartmouth College
+206	Waseda University
+207	University of Bergen
+208	Erasmus University Rotterdam 
+209	Qatar University
+210	Universidade Estadual de Campinas (Unicamp)
+211	Universite libre de Bruxelles
+212	Tongji University
+213	University of Twente
+214	Vrije Universiteit Amsterdam
+215	Universidad Autónoma de Madrid
+216	University of Göttingen
+217	Harbin Institute of Technology
+218	University of Otago
+219	Arizona State University
+220	Universidad de los Andes
+221	University of Aberdeen
+222	Queensland University of Technology (QUT)
+223	The Hebrew University of Jerusalem
+224	Chulalongkorn University
+225	National Cheng Kung University (NCKU)
+226	Complutense University of Madrid
+227	Southern University of Science and Technology
+228	Universität Hamburg
+229	University of Reading
+230	Bauman Moscow State Technical University
+231	Gadjah Mada University
+232	Radboud University 
+233	Queen's University Belfast
+234	Universitat Pompeu Fabra (Barcelona)
+235	Bandung Institute of Technology (ITB)
+236	University of California, Irvine
+237	King Saud University
+238	University of Cape Town
+239	University of Ottawa
+240	University of Sussex
+241	USI - Università della Svizzera italiana
+242	University of Calgary
+243	Universidad Nacional de Colombia
+244	Università di Padova
+245	University of Notre Dame
+246	Queen's University at Kingston
+247	Yeshiva University
+248	Universitas Indonesia
+249	Université Paris Cité
+250	Indian Institute of Technology Madras (IITM)
+251	Vrije Universiteit Brussel (VUB)
+252	American University of Beirut (AUB)
+253	University of Massachusetts Amherst
+254	University of Navarra
+255	University of Virginia
+256	Loughborough University
+257	Mahidol University
+258	Universiti Brunei Darussalam (UBD)
+259	Sciences Po 
+260	Novosibirsk State University
+261	Tel Aviv University
+262	Beijing Normal University 
+263	The University of Arizona
+264	Indian Institute of Technology Kanpur (IITK)
+265	Tomsk State University
+266	Deakin University
+267	Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)
+268	Rutgers University–New Brunswick
+269	Sun Yat-sen University
+270	Indian Institute of Technology Kharagpur (IIT-KGP)
+271	Kyung Hee University
+272	National University of Ireland Galway
+273	Saint Petersburg State University
+274	University of Porto
+275	Technical University of Darmstadt
+276	Victoria University of Wellington
+277	L.N. Gumilyov Eurasian National University (ENU)
+278	Maastricht University 
+279	University of Leicester
+280	University of Antwerp
+281	Georgetown University
+282	Heriot-Watt University
+283	Hong Kong Baptist University
+284	Graz University of Technology
+285	Taylor's University
+286	UCSI University
+287	University of Canterbury | Te Whare Wānanga o Waitaha
+288	University of Warsaw 
+289	Belarusian State University
+290	Charles University
+291	Gwangju Institute of Science and Technology (GIST)
+292	University of Turku
+293	Massey University
+294	Jagiellonian University
+295	University of Tasmania
+296	RUDN University
+297	Swinburne University of Technology
+298	United Arab Emirates University
+299	University of Miami
+300	University of Tartu
+301	Griffith University
+302	Université Paris 1 Panthéon-Sorbonne 
+303	Xi’an Jiaotong University
+304	University College Cork
+305	University of Macau
+306	University of Surrey
+307	Huazhong University of Science and Technology
+308	Tianjin University
+309	Dalhousie University
+310	HSE University
+311	National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
+312	Universität Innsbruck
+313	North Carolina State University
+314	Tufts University
+315	University of Tsukuba
+316	La Trobe University
+317	Université Grenoble Alpes
+318	University of Colorado Boulder
+319	University of Illinois at Chicago (UIC)
+320	Linköping University
+321	Universidad Carlos III de Madrid (UC3M)
+322	Kazan (Volga region) Federal University
+323	Pontificia Universidad Católica Argentina
+324	University of Milan
+325	Politecnico di Torino
+326	University of Strathclyde
+327	National Taiwan University of Science and Technology (Taiwan Tech)
+328	Goethe-University Frankfurt am Main
+329	Simon Fraser University
+330	Aalborg University
+331	University of Waikato
+332	National Taiwan Normal University
+333	Universidade Federal do Rio de Janeiro
+334	National University of Sciences And Technology (NUST) Islamabad
+335	University of Cologne
+336	University of Lisbon 
+337	Ural Federal University - UrFU
+338	Hiroshima University
+339	Indiana University Bloomington
+340	Friedrich-Alexander-Universität Erlangen-Nürnberg
+341	Universiti Teknologi Brunei
+342	University of East Anglia (UEA)
+343	Birkbeck, University of London
+344	Universitat Politècnica de Catalunya · BarcelonaTech (UPC)
+345	MGIMO University
+346	Ewha Womans University
+347	IE University
+348	University of Jyväskylä
+349	University of Southern Denmark (SDU)
+350	Johannes Kepler University Linz
+351	University of Connecticut
+352	Norwegian University of Science And Technology
+353	Universität Jena
+354	University of Dundee
+355	Beijing Institute of Technology
+356	City, University of London
+357	Universität Stuttgart
+358	University of Chemistry and Technology, Prague
+359	ITMO University
+360	University of Victoria (UVic)
+361	Universiti Teknologi PETRONAS (UTP)
+362	George Washington University
+363	Kobe University
+364	Pontificia Universidad Católica del Perú
+365	Quaid-i-Azam University
+366	University of South Australia
+367	Virginia Polytechnic Institute and State University
+368	Lincoln University 
+369	Airlangga University
+370	American University of Sharjah
+371	Indian Institute of Technology Roorkee (IITR)
+372	Umea University
+373	Universidade Nova de Lisboa
+374	University of Kansas
+375	University of California, Santa Cruz
+376	University of Kent
+377	University Ulm
+378	Czech Technical University in Prague
+379	Nankai University
+380	Sharif University of Technology
+381	University of Hawaiʻi at Mānoa
+382	Peter the Great St. Petersburg Polytechnic University
+383	Pontificia Universidad Javeriana
+384	Indian Institute of Technology Guwahati (IITG)
+385	Sultan Qaboos University
+386	Taipei Medical University (TMU)
+387	Westfälische Wilhelms-Universität Münster 
+388	Lappeenranta-Lahti University of Technology LUT
+389	Northeastern University
+390	Pakistan Institute of Engineering and Applied Sciences (PIEAS)
+391	Universidad de Palermo (UP)
+392	Chung-Ang University (CAU)
+393	Tokyo Medical and Dental University (TMDU)
+394	University of Oulu
+395	University of Utah
+396	Indian Institute of Technology Indore (IIT Indore)
+397	Shandong University
+398	National Research Tomsk Polytechnic University
+399	Tilburg University
+400	Universitat Politècnica de València
+401	Vilnius University 
+402	Colegio de México
+403	Royal Holloway University of London
+404	University of Pisa
+405	Satbayev University
+406	Sichuan University
+407	South China University of Technology
+408	Colorado State University
+409	Technion - Israel Institute of Technology
+410	HUFS - Hankuk (Korea) University of Foreign Studies 
+411	Julius-Maximilians-Universität Würzburg
+412	Brunel University London
+413	University of Johannesburg
+414	University of the Philippines
+415	Tampere University
+416	Ruhr-Universität Bochum
+417	Stony Brook University, State University of New York
+418	The American University in Cairo
+419	University of Naples - Federico II
+420	Johannes Gutenberg Universität Mainz
+421	Universität Leipzig
+422	National Technical University of Athens
+423	Shanghai University
+424	Xiamen University
+425	Flinders University
+426	Swansea University
+427	University at Buffalo SUNY
+428	National Sun Yat-sen University
+429	University of Colorado, Denver 
+430	University of Science and Technology Beijing
+431	University of Witwatersrand
+432	Universidad Austral
+433	Université Laval
+434	Far Eastern Federal University
+435	Université de Strasbourg
+436	National Taipei University of Technology
+437	Università Vita-Salute San Raffaele
+438	Oxford Brookes University
+439	University of Coimbra
+440	Wake Forest University
+441	Universidade Federal de São Paulo
+442	Universität des Saarlandes
+443	Amirkabir University of Technology
+444	Auezov South Kazakhstan University (SKU)
+445	Beihang University (former BUAA)
+446	Illinois Institute of Technology
+447	SOAS University of London 
+448	Washington State University
+449	Bogor Agricultural University
+450	Hasselt University 
+451	Umm Al-Qura University 
+452	Universidad de Montevideo (UM)
+453	University of California, Riverside
+454	Stellenbosch University
+455	University of Tromsø The Arctic University of Norway
+456	York University
+457	Institut National des Sciences Appliquées de Lyon (INSA)
+458	Sogang University
+459	University of Trento
+460	University of Florence
+461	James Cook University
+462	Rensselaer Polytechnic Institute
+463	Southeast University
+464	Universidad de Belgrano
+465	Essex, University of
+466	Universidad de Santiago de Chile (USACH)
+467	The National University of Science and Technology MISIS
+468	Universidad de La Habana
+469	University of Alaska Fairbanks
+470	University of Iowa
+471	Dublin City University
+472	Tulane University
+473	University of Cyprus (UCY)
+474	University of Saskatchewan
+475	Chang Gung University
+476	University of Turin
+477	Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM)
+478	Koç University
+479	Martin-Luther-Universität Halle-Wittenberg
+480	UNESP
+481	Bond University
+482	Dongguk University 
+483	Iowa State University
+484	Kazakh National Agrarian University KazNAU
+485	Universiti Utara Malaysia (UUM)
+486	Auckland University of Technology (AUT)
+487	University of Klagenfurt
+488	Ajou University 
+489	Universidad Politécnica de Madrid (UPM)
+490	Aix-Marseille University
+491	Ben-Gurion University of The Negev
+492	Chiba University
+493	Justus-Liebig-University Giessen
+494	The Catholic University of Korea 
+495	Universidad ORT Uruguay
+496	University of Granada
+497	Brandeis University
+498	Jilin University
+499	Central South University
+500	University of Rome "Tor Vergata"
+501	 Western Sydney University	AU
+502	Bar-Ilan University	IL
+503	Colorado School of Mines	US
+504	Kyungpook National University	KR
+505	Middle East Technical University	TR
+506	Missouri University of Science and Technology	US
+507	Swarthmore College	US
+508	Université de Montpellier	FR
+509	University of Aveiro	PT
+510	University of St.Gallen (HSG)	CH
+511	University of Stirling	UK
+512	University of Tehran	IR
+513	Yokohama City University	JP
+514	Abai Kazakh National Pedagogical University	KZ
+515	Florida State University	US
+516	Goldsmiths, University of London	UK
+517	Universidad de Alcalá	ES
+518	Universidad de Costa Rica	CR
+519	Università Cattolica del Sacro Cuore	IT
+520	University of Bayreuth	DE
+521	University of Canberra 	AU
+522	University of Missouri, Columbia	US
+523	Altai State University	RU
+524	Beijing University of Chemical Technology	CN
+525	Christian-Albrechts-University zu Kiel	DE
+526	Poznan University of Life Sciences	PL
+527	The New School	US
+528	Université de Liège	BE
+529	University of Bordeaux	FR
+530	University of Delhi	IN
+531	University of Texas Dallas	US
+532	Warsaw University of Technology	PL
+533	Hitotsubashi University	JP
+534	Inha University	KR
+535	Iran University of Science and Technology	IR
+536	Sabanci University	TR
+537	Saint Joseph University of Beirut (USJ) 	LB
+538	Universidad Central "Marta Abreu" de Las Villas	CU
+539	University of Balamand	LB
+540	University of Limerick	IE
+541	Canadian University Dubai	AE
+542	China University of Petroleum	CN
+543	East China Normal University	CN
+544	Savitribai Phule Pune University	IN
+545	Southern Federal University	RU
+546	Universidad Nacional de La Plata (UNLP)	AR
+547	Universidad Panamericana (UP)	MX
+548	Universität Konstanz	DE
+549	Universität Mannheim	DE
+550	University of Madras	IN
+551	V. N. Karazin Kharkiv National University	UA
+552	Anna University	IN
+553	Cairo University	EG
+554	Concordia University	CA
+555	Jeonbuk National University	KR
+556	Masaryk University	CZ
+557	National Research Saratov State University	RU
+558	Northwestern Polytechnical University	CN
+559	Sejong University 	KR
+560	Universidad de Zaragoza	ES
+561	University of Eastern Finland	FI
+562	University of Szeged	HU
+563	Almaty Technological University	KZ
+564	Applied Science University - Bahrain	BH
+565	Aston University	UK
+566	Bilkent University	TR
+567	Boston College	US
+568	Dalian University of Technology	CN
+569	Murdoch University	AU
+570	Niigata University	JP
+571	Singapore Management University	SG
+572	Sofia University "St. Kliment Ohridski"	BG
+573	Universidad de Sevilla	ES
+574	Università degli Studi di Pavia	IT
+575	University of Electronic Science and Technology of China	CN
+576	University of Ulsan 	KR
+577	Hallym University 	KR
+578	Holy Spirit University of Kaslik 	LB
+579	Nagasaki University	JP
+580	Universitat de Valencia	ES
+581	Université de Fribourg	CH
+582	Université du Québec	CA
+583	Indian Institute of Technology Hyderabad	IN
+584	Macau University of Science and Technology	MO
+585	National Central University	TW
+586	Shenzhen University	CN
+587	Universität Regensburg	DE
+588	Université Paul Sabatier Toulouse III	FR
+589	University of Delaware	US
+590	University of Massachusetts Boston	US
+591	China Agricultural University 	CN
+592	Hunan University 	CN
+593	Lehigh University	US
+594	Politecnico di Bari	IT
+595	Sungshin Women's University	KR
+596	University of Crete	GR
+597	University of Guelph	CA
+598	University of Jordan	JO
+599	University of Minho	PT
+600	University of Pretoria	ZA
+601	Abo Akademi University	FI
+602	Al Ain University	AE
+603	Bangor University	UK
+604	Carleton University	CA
+605	Chiang Mai University	TH
+606	East China University of Science and Technology	CN
+607	Edith Cowan University 	AU
+608	Gifu University	JP
+609	Immanuel Kant Baltic Federal University	RU
+610	Istanbul Technical University	TR
+611	Ivane Javakhishvili Tbilisi State University	GE
+612	Jawaharlal Nehru University	IN
+613	Kanazawa University	JP
+614	Kingston University, London	UK
+615	Lahore University of Management Sciences (LUMS)	PK
+616	Lebanese American University	LB
+617	Lebanese University	LB
+618	Leibniz University Hannover	DE
+619	Lingnan University, Hong Kong	HK
+620	Management and Science University	MY
+621	Nanjing University of Science and Technology	CN
+622	National and Kapodistrian University of Athens	GR
+623	National Chengchi University	TW
+624	Okayama University	JP
+625	Oregon State University	US
+626	Osaka City University	JP
+627	Pontifícia Universidade Católica do Rio de Janeiro	BR
+628	Pusan National University	KR
+629	Renmin (People's) University of China	CN
+630	Samara National Research University (Samara University)	RU
+631	St. Louis University	US
+632	Sunway University	MY
+633	Technische Universität Braunschweig	DE
+634	The University of Georgia	US
+635	The University of Tennessee, Knoxville	US
+636	Ulster University	UK
+637	Universidad Anáhuac México	MX
+638	Universidad de Concepción	CL
+639	Universidad Pontificia Bolivariana 	CO
+640	Universidad Pontificia Comillas	ES
+641	Universität Bremen	DE
+642	Universität Potsdam	DE
+643	Universität Rostock	DE
+644	Université Claude Bernard Lyon 1	FR
+645	University of Ljubljana	SI
+646	University of Milano-Bicocca 	IT
+647	University of Salamanca	ES
+648	University of Sharjah	AE
+649	University of South Florida	US
+650	University Paris 2 Panthéon-Assas	FR
+651	Wayne State University	US
+652	Wesleyan University	US
+653	Aberystwyth University	UK
+654	Abu Dhabi University	AE
+655	Ahlia University	BH
+656	Ajman University	AE
+657	Alfaisal University	SA
+658	American University in Dubai	AE
+659	Aristotle University of Thessaloniki	GR
+660	Ateneo de Manila University	PH
+661	Central Queensland University (CQUniversity Australia)	AU
+662	China University of Geosciences	CN
+663	Chongqing University	CN
+664	Comenius University in Bratislava	SK
+665	Coventry University	UK
+666	Drexel University	US
+667	Gunma University	JP
+668	Indian Institute of Technology (BHU) Varanasi	IN
+669	International Islamic University Malaysia (IIUM)	MY
+670	Karaganda State Technical University	KZ
+671	Karl-Franzens-Universitaet Graz	AT
+672	Konkuk University 	KR
+673	Kumamoto University	JP
+674	National Chung Hsing University	TW
+675	National Technical University "Kharkiv Polytechnic Institute"	UA
+676	New Jersey Institute of Technology (NJIT)	US
+677	Northumbria University at Newcastle	UK
+678	O.P. Jindal Global University	IN
+679	Palacký University Olomouc	CZ
+680	Plekhanov Russian University of Economics	RU
+681	Prince Mohammad Bin Fahd university	SA
+682	S.D. Asfendiyarov Kazakh National Medical University	KZ
+683	Sechenov University	RU
+684	Soochow University	CN
+685	Taras Shevchenko National University of Kyiv	UA
+686	Thammasat University	TH
+687	Universidad de Antioquia	CO
+688	Universidad Externado de Colombia 	CO
+689	Universidad ICESI	CO
+690	Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)	AR
+691	Universidad Peruana Cayetano Heredia (UPCH)	PE
+692	Universitat Ramon Llull	ES
+693	Universiti Teknologi MARA - UiTM	MY
+694	University of Alabama, Birmingham	US
+695	University of Debrecen	HU
+696	University of Genoa	IT
+697	University of Huddersfield	UK
+698	University of Hull	UK
+699	University of Manitoba	CA
+700	University of Nebraska - Lincoln	US
+701	University of Plymouth	UK
+702	University of Southern Queensland 	AU
+703	American University	US
+704	American University of the Middle East	KW
+705	Boğaziçi University	TR
+706	Brno University of Technology	CZ
+707	Charles Darwin University 	AU
+708	City University of New York	US
+709	Eötvös Loránd University	HU
+710	Free University of Bozen-Bolzano	IT
+711	Institut Teknologi Sepuluh Nopember (ITS Surabaya)	ID
+712	Jadavpur University	IN
+713	Jinan University (China)	CN
+714	Jouf University	SA
+715	Kagoshima University	JP
+716	Khoja Akhmet Yassawi International Kazakh-Turkish University	KZ
+717	King Khalid University	SA
+718	National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"	UA
+719	Pavol Jozef Šafárik University in Košice	SK
+720	Princess Nourah bint Abdulrahman University	SA
+721	Ritsumeikan University	JP
+722	Southern Cross University 	AU
+723	Stevens Institute of Technology	US
+724	Tallinn University of Technology (TalTech)	EE
+725	Tokushima University	JP
+726	Tokyo Metropolitan University	JP
+727	Tokyo University of Agriculture and Technology 	JP
+728	Universidad Católica del Uruguay (UCU)	UY
+729	Universidad Central de Venezuela	VE
+730	Universidad de La Sabana	CO
+731	Universidad Iberoamericana IBERO	MX
+732	Universidad San Francisco de Quito (USFQ)	EC
+733	Universidade Federal de Minas Gerais      	BR
+734	Universiti Tenaga Nasional (UNITEN)	MY
+735	University of Bradford	UK
+736	University of Cincinnati	US
+737	University of Haifa	IL
+738	University of Kentucky	US
+739	University of Mons 	BE
+740	University of New Brunswick	CA
+741	University of New Mexico	US
+742	University of Oklahoma	US
+743	University of Oregon	US
+744	University of Pecs	HU
+745	University of Portsmouth	UK
+746	University of South Bohemia	CZ
+747	University of South Carolina	US
+748	University of the Basque Country	ES
+749	University of Trieste	IT
+750	University of Vermont	US
+751	University of Westminster	UK
+752	Victoria University 	AU
+753	Vilnius Gediminas Technical University	LT
+754	Virginia Commonwealth University	US
+755	Zayed University	AE
+756	Beijing University of Technology	CN
+757	Belarusian National Technical University (BNTU)	BY
+758	Chonnam National University	KR
+759	Chungnam National University	KR
+760	Clark University	US
+761	CY Cergy Paris University	FR
+762	Dankook University 	KR
+763	Florida International University	US
+764	Howard University	US
+765	Instituto Politécnico Nacional (IPN)	MX
+766	Instituto Tecnológico Autónomo de México (ITAM)	MX
+767	Instituto Tecnológico de Buenos Aires (ITBA)	AR
+768	Keele University 	UK
+769	Lanzhou University	CN
+770	Lobachevsky University	RU
+771	Manipal Academy of Higher Education, Manipal, Karnataka, India	IN
+772	Memorial University of Newfoundland	CA
+773	Michigan Technological University	US
+774	Middlesex University	UK
+775	Osaka Prefecture University 	JP
+776	Paris Lodron University of Salzburg	AT
+777	Philipps-Universität Marburg 	DE
+778	Pontificia Universidad Católica de Valparaíso	CL
+779	Riga Technical University	LV
+780	Saint Petersburg Electrotechnical University ETU-LETI	RU
+781	Shiraz University	IR
+782	Syracuse University	US
+783	Temple University	US
+784	Universidad Adolfo Ibáñez	CL
+785	Universidad Autónoma Chapingo	MX
+786	Universidad Católica Andres Bello	VE
+787	Universidad de la República (Udelar)	UY
+788	Universidad de San Andrés - UdeSA	AR
+789	Universidad del Rosario	CO
+790	Universidade de Santiago de Compostela	ES
+791	Universidade Federal do Rio Grande Do Sul 	BR
+792	Universitas Padjadjaran	ID
+793	Universitat Rovira i Virgili	ES
+794	Université Côte d\'Azur	FR
+795	Université de Lille	FR
+796	Université de Sherbrooke	CA
+797	Université de Sousse	TN
+798	University Duesseldorf	DE
+799	University of Denver	US
+800	University of Houston	US
+801	University of Hyderabad	IN
+802	University of Siena	IT
+803	University of Windsor	CA
+804	Academician Y.A. Buketov Karaganda University	KZ
+805	Adam Mickiewicz University, Poznań	PL
+806	AGH University of Science and Technology	PL
+807	Ain Shams University 	EG
+808	Australian Catholic University	AU
+809	Bangladesh University of Engineering and Technology	BD
+810	Beijing Foreign Studies University	CN
+811	Beijing Jiaotong University	CN
+812	Beijing University of Chinese Medicine	CN
+813	Beijing University of Posts and Telecommunications	CN
+814	Beirut Arab University 	LB
+815	Bournemouth University	UK
+816	Budapest University of Technology and Economics	HU
+817	Ca' Foscari University of Venice 	IT
+818	Catania University	IT
+819	Chandigarh University	IN
+820	Chang Jung Christian University	TW
+821	Charles Sturt University 	AU
+822	China University of Mining and Technology	CN
+823	Clarkson University	US
+824	Clemson University	US
+825	College of William and Mary	US
+826	Cracow University of Technology (Politechnika Krakowska)	PL
+827	Czech University of Life Sciences in Prague	CZ
+828	De La Salle University	PH
+829	De Montfort University	UK
+830	Diponegoro University	ID
+831	Donghua University	CN
+832	Duy Tan University	VN
+833	Edinburgh Napier University	UK
+834	Gdańsk University of Technology	PL
+835	Georgia State University	US
+836	German Jordanian University	JO
+837	Gulf University for Science and Technology	KW
+838	Hacettepe University 	TR
+839	Harbin Engineering University	CN
+840	Indian Institute of Technology Bhubaneswar	IN
+841	Indiana University–Purdue University Indianapolis	US
+842	Instituto Tecnológico de Santo Domingo (INTEC)	DO
+843	International Christian University	JP
+844	Islamic University of Madinah	SA
+845	Istanbul University	TR
+846	ITESO, Universidad Jesuita de Guadalajara	MX
+847	Jamia Millia Islamia	IN
+848	Jordan University of Science & Technology	JO
+849	Kansas State University 	US
+850	Kasetsart University	TH
+851	Kaunas University of Technology	LT
+852	Kazakh-British Technical University	KZ
+853	Khon Kaen University	TH
+854	King Faisal University	SA
+855	King Mongkut's University of Technology Thonburi 	TH
+856	Kyrgyz-Turkish Manas University	KG
+857	Liverpool John Moores University	UK
+858	Lodz University of Technology	PL
+859	London Metropolitan University	UK
+860	London South Bank University	UK
+861	Louisiana State University	US
+862	Loyola University Chicago	US
+863	Lviv Polytechnic National University	UA
+864	Manchester Metropolitan University (MMU)	UK
+865	Maynooth University	IE
+866	Mendel University in Brno	CZ
+867	Nanjing Agricultural University	CN
+868	Nanjing University of Aeronautics and Astronautics	CN
+869	National Chung Cheng University	TW
+870	National Institute of Technology Tiruchirappalli	IN
+871	Nicolaus Copernicus University 	PL
+872	NJSC KIMEP University	KZ
+873	Northern Borders University	SA
+874	Northwest Agriculture and Forestry University	CN
+875	Northwest University (China)	CN
+876	Notre Dame University-Louaize NDU	LB
+877	Nottingham Trent University	UK
+878	Novosibirsk State Technical University	RU
+879	Oklahoma State University 	US
+880	Perm State National Research University	RU
+881	Pondicherry University	IN
+882	Pontificia Universidad Católica del Ecuador (PUCE)	EC
+883	Pontifícia Universidade Católica de São Paulo	BR
+884	Poznań University of Technology	PL
+885	Prince of Songkla University	TH
+886	Princess Sumaya University for Technology	JO
+887	Qassim University	SA
+888	Queen Margaret University , Edinburgh	UK
+889	Rhodes University 	ZA
+890	Riga Stradins University	LV
+891	Ritsumeikan Asia Pacific University	JP
+892	Robert Gordon University	UK
+893	Russian Presidential Academy of National Economy and Public Administration	RU
+894	Russian-Armenian (Slavonic) State University	AM
+895	Rutgers University–Newark	US
+896	Toronto Metropolitan University	CA
+897	Saint-Petersburg Mining University	RU
+898	Shinshu University 	JP
+899	Shoolini University of Biotechnology and Management Sciences	IN
+900	Slovak University of Technology in Bratislava	SK
+901	Sophia University 	JP
+902	South Ural State University (National Research University)	RU
+903	Southern Methodist University	US
+904	Sumy State University	UA
+905	Széchenyi István University	HU
+906	Szent Istvan University	HU
+907	Technical University of Kosice	SK
+908	Technical University of Liberec	CZ
+909	Technological University Dublin	IE
+910	Tecnológico de Costa Rica -TEC	CR
+911	Tokyo University of Science	JP
+912	TU Dortmund University	DE
+913	Ufa State Aviation Technical University 	RU
+914	Universidad Autónoma del Estado de Hidalgo (UAEH)	MX
+915	Universidad Autónoma del Estado de México (UAEMex)	MX
+916	Universidad Autónoma Metropolitana (UAM)	MX
+917	Universidad de Guadalajara (UDG)	MX
+918	Universidad de las Américas Puebla (UDLAP)	MX
+919	Universidad de Los Andes - (ULA) Mérida	VE
+920	Universidad de los Andes - Chile	CL
+921	Universidad de Oriente Santiago de Cuba	CU
+922	Universidad del Valle	CO
+923	Universidad Diego Portales (UDP)	CL
+924	Universidad EAFIT	CO
+925	Universidad Nacional de Córdoba - UNC	AR
+926	Universidad Nacional de Rosario (UNR)	AR
+927	Universidad Nacional de San Luis	AR
+928	Universidad Nacional Mayor de San Marcos	PE
+929	Universidad Simón Bolívar (USB)	VE
+930	Universidad Tecnológica Nacional (UTN)	AR
+931	Universidad Torcuato Di Tella	AR
+932	Universidade Católica Portuguesa - UCP	PT
+933	Universidade de Brasília	BR
+934	Universidade Federal de Santa Catarina 	BR
+935	Universidade Federal de São Carlos (UFSCar)	BR
+936	Universidade Federal do Paraná - UFPR	BR
+937	Universita' degli Studi di Ferrara	IT
+938	Università degli Studi di Perugia	IT
+939	Università degli studi Roma Tre	IT
+940	Universita' Politecnica delle Marche	IT
+941	Universitas Brawijaya 	ID
+942	Universität Duisburg-Essen	DE
+943	Université de Lorraine	FR
+944	Université de Nantes	FR
+945	Université de Rennes 1	FR
+946	Universiti Malaysia Pahang	MY
+947	Universiti Malaysia Perlis	MY
+948	Universiti Pendidikan Sultan Idris (UPSI)	MY
+949	Universiti Tunku Abdul Rahman (UTAR)	MY
+950	University at Albany SUNY	US
+951	University of Alicante	ES
+952	University of Baghdad	IQ
+953	University of Bahrain	BH
+954	University of Bari	IT
+955	University of Brescia	IT
+956	University of Brighton	UK
+957	University of Calcutta	IN
+958	University of Central Florida	US
+959	University of Central Lancashire	UK
+960	University of Dhaka	BD
+961	University of Dubai	AE
+962	University of East London	UK
+963	University of Engineering & Technology (UET) Lahore	PK
+964	UNIVERSITY OF GDANSK	PL
+965	University of Greenwich	UK
+966	University of Hartford	US
+967	University of Hertfordshire	UK
+968	University of Hohenheim	DE
+969	University of Hradec Kralove	CZ
+970	University of Idaho	US
+971	University of Kwazulu-Natal	ZA
+972	University of Lincoln	UK
+973	University of Lodz	PL
+974	University of Louisville	US
+975	University of Malta	MT
+976	University of Maribor	SI
+977	University of Maryland, Baltimore County	US
+978	University of Messina (UniME)	IT
+979	University of Mississippi	US
+980	University of Modena and Reggio Emilia	IT
+981	University of Murcia	ES
+982	University of New England Australia	AU
+983	University of New Hampshire	US
+984	University of Parma	IT
+985	University of Patras	GR
+986	University of Peshawar	PK
+987	University of Salford	UK
+988	University of Santo Tomas	PH
+989	University of Seoul 	KR
+990	University of the Punjab	PK
+991	University of the West of England	UK
+992	University of Tulsa	US
+993	University of Tyumen	RU
+994	University of Wroclaw	PL
+995	University of Wyoming	US
+996	University of Zagreb	HR
+997	University of Žilina	SK
+998	Verona University	IT
+999	Viet Nam National University Ho Chi Minh City (VNU-HCM)	VN
+1000  Vietnam National University, Hanoi 	VN
